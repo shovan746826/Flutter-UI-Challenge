@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="50e2d738-e1b2-4bea-8e4d-1d1e5303033b" name="Default Changelist" comment="Fruit App">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="50e2d738-e1b2-4bea-8e4d-1d1e5303033b" name="Default Changelist" comment="Fruit App" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1623361616965</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Fruit App">
+      <created>1623362420628</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1623362420628</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,13 +90,13 @@
       <screen x="0" y="25" width="1440" height="816" />
     </state>
     <state x="583" y="334" key="Github.ShareDialog/0.25.1440.816@0.25.1440.816" timestamp="1623361348959" />
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1623362082889">
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2" timestamp="1623362453153">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.25.1440.816@0.25.1440.816" timestamp="1623362082889" />
-    <state x="483" y="326" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1623361573364">
+    <state x="320" y="170" key="Vcs.Push.Dialog.v2/0.25.1440.816@0.25.1440.816" timestamp="1623362453153" />
+    <state x="483" y="326" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1623362437168">
       <screen x="0" y="25" width="1440" height="816" />
     </state>
-    <state x="483" y="326" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.816@0.25.1440.816" timestamp="1623361573364" />
+    <state x="483" y="326" key="git4idea.remote.GitConfigureRemotesDialog/0.25.1440.816@0.25.1440.816" timestamp="1623362437168" />
   </component>
 </project>
